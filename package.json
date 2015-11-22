@@ -1,0 +1,12 @@
+{
+  "name": "WebWorkflows",
+  "version": "0.0.1",
+  "description": "Web workflows",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Ashton Wilson",
+  "license": "ISC"
+}
